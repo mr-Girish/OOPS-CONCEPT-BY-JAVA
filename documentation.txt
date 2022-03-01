@@ -1,0 +1,26 @@
+OOPS:
+CLASS:=>
+class is the collection of objecst, It is just a template or blueprint
+it doesnt occupy the memeory
+syntax:
+        accessmodifier class ClassName(first letter of classname will be Capital)
+
+
+METHOD/FUNCITON: => it is a set of code which perform a task/ block of code which perfome a task
+->code reuseablity and code ooptimaization
+syntax:
+    accessmodifier returnntype MethodNme(parameter will here)
+    {
+        .......body
+    }
+
+Object:=> it is and instance of class, it is real world entity, it occupy memorym
+    objecst can have namme,state,behaviour
+
+CREATION OF OBJECT:
+        by using NEW keyword
+  syntax:
+        className objectname=new className();
+
+       -------- call method throught object.----
+            objectname.methodName();
